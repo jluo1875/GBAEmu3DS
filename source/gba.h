@@ -5,6 +5,7 @@
 
 #define BITS_16 0
 #define BITS_32 1
+
 #define SAVE_GAME_VERSION_1 1
 #define SAVE_GAME_VERSION_2 2
 #define SAVE_GAME_VERSION_3 3
