@@ -96,7 +96,7 @@ typedef struct
 extern uint64_t joy;
 extern void (*cpuSaveGameFunc)(uint32_t,uint8_t);
 extern bool CPUWriteBatteryFile(const char *);
-extern bool CPUReadBatteryFile(const char *);
+extern bool CPUReadBatteryFile(const char *;
 extern bool CPUReadState(const uint8_t * data, unsigned size);
 extern unsigned CPUWriteState(uint8_t* data, unsigned size);
 extern int CPULoadRom(const char *);
