@@ -1,6 +1,6 @@
-# GBAEmu3DS
+# GBA Emulator for 3DS
  Gameboy Advance Emulator for 3DS
 
-This is a work in progress, so feel free to check out the progress that I have made!
+This is a work in progress, with the buttons for the controllers needing to be mapped.
  
 
