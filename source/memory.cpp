@@ -18,7 +18,7 @@
 	UTIL
 */
 
-extern bool cpuIsMultiBoot
+extern bool cpuIsMultiBoot;
 
 bool utilIsGBAImage(const char * file)
 {
