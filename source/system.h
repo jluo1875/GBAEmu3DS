@@ -1,5 +1,5 @@
 #ifndef SYSTEM_H
-#define SYSTEM_H
+#define SYSTEM_
 
 #include "types.h"
 
